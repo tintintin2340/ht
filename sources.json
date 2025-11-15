@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "author": "Kou",
+        "description": "Nguồn riêng Hang Truyện"
+    },
+    "data": [
+        {
+            "name": "Hang Truyện",
+            "author": "Kou",
+            "path": "https://raw.githubusercontent.com/kur21/vbook-ext/main/hangtruyen/plugin.zip",
+            "version": 4,
+            "type": "comic",
+            "locale": "vi_VN",
+            "source": "https://hangtruyen.co",
+            "icon": "https://raw.githubusercontent.com/kur21/vbook-ext/main/hangtruyen/icon.png",
+            "description": "Đọc truyện trên trang Hang Truyện"
+        }
+    ]
+}
